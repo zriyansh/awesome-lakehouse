@@ -37,7 +37,7 @@ Welcome to **Awesome Lakehouse**, your go-to repository for everything related t
 
 Whether you're a data engineer, architect, or enthusiast, this repository provides a comprehensive collection of tools, technologies, and resources to help you build robust data solutions.
 
-⭐️ If you find this repository helpful, please [star this repo](https://github.com/yourusername/awesome-lakehouse) to show your support!
+⭐️ If you find this repository helpful, please [star this repo](https://github.com/zriyansh/awesome-lakehouse) to show your support!
 
 ---
 
@@ -260,7 +260,7 @@ Please ensure your pull request adheres to the [repository guidelines](CONTRIBUT
 ### Contribution Guidelines
 
 - **Code of Conduct**: Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md).
-- **Issue Reporting**: Use [Issues](https://github.com/yourusername/awesome-lakehouse/issues) to report bugs or suggest enhancements.
+- **Issue Reporting**: Use [Issues](https://github.com/zriyansh/awesome-lakehouse/issues) to report bugs or suggest enhancements.
 - **Style Guide**: Follow the [Markdown Style Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for consistency.
 
 ---
