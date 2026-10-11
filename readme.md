@@ -88,6 +88,7 @@ The lakehouse architecture merges the best features of data lakes and data wareh
 - [Airbyte](https://airbyte.com/) - An open-source data integration platform.
 - [Meltano](https://meltano.com/) - An open-source data integration tool built on Singer.
 - [dbt (data build tool)](https://www.getdbt.com/) - Transform data in your warehouse more effectively.
+- [OLake](https://github.com/datazip-inc/olake) - Open-source CDC and batch replication from Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, plus compaction and snapshot maintenance. Written in Go.
 
 #### Commercial
 - [Fivetran](https://fivetran.com/) - Automated data integration.
